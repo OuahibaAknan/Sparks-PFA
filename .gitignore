@@ -1,7 +1,5 @@
-bin/
-obj/
-.vs/
-*.user
-appsettings.*.json
-appsettings.*.json.user
-Sparks.Api/wwwroot/uploads/
+<<<<<<< HEAD
+...content from GitHub...
+=======
+...your content...
+>>>>>>> fe26fd2 (conf)
